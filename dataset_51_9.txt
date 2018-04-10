@@ -1,0 +1,847 @@
+{
+    "foo": 59,
+    "quux": {
+        "baz": [
+            [
+                [
+                    5,
+                    0
+                ],
+                {
+                    "foo": 2,
+                    "baz": 1,
+                    "bar": "python"
+                }
+            ],
+            {
+                "foo": 11,
+                "baz": [
+                    8,
+                    3
+                ],
+                "bar": 6,
+                "spam": {
+                    "foo": 83,
+                    "spam": 4,
+                    "bar": 6
+                }
+            },
+            {
+                "quux": {
+                    "spam": [
+                        3,
+                        3
+                    ],
+                    "bar": {
+                        "foo": 3,
+                        "spam": 1,
+                        "bar": 7
+                    }
+                },
+                "baz": {
+                    "foo": 30,
+                    "quux": 3,
+                    "baz": 3
+                },
+                "bar": [
+                    {
+                        "foo": 33,
+                        "quux": "eggs",
+                        "spam": 1
+                    },
+                    [
+                        7,
+                        "eggs"
+                    ]
+                ]
+            }
+        ],
+        "bar": {
+            "foo": 17,
+            "bar": {
+                "foo": 13,
+                "quux": {
+                    "foo": 9,
+                    "bar": false,
+                    "spam": "python",
+                    "quux": 8
+                },
+                "baz": {
+                    "baz": 3,
+                    "quux": 5,
+                    "bar": 8
+                }
+            },
+            "quux": [
+                1,
+                false
+            ],
+            "baz": {
+                "baz": 4,
+                "quux": {
+                    "quux": 3,
+                    "bar": 2
+                },
+                "spam": [
+                    false,
+                    6
+                ],
+                "bar": {
+                    "foo": 93,
+                    "baz": 6,
+                    "quux": 1
+                }
+            }
+        }
+    },
+    "baz": {
+        "foo": 15,
+        "baz": [
+            false,
+            {
+                "bar": [
+                    2,
+                    false,
+                    7
+                ],
+                "baz": [
+                    [
+                        3,
+                        8,
+                        false
+                    ],
+                    2,
+                    {
+                        "baz": 5,
+                        "quux": {
+                            "foo": 89,
+                            "bar": 0,
+                            "spam": 0
+                        },
+                        "spam": [
+                            "eggs",
+                            1
+                        ]
+                    },
+                    {
+                        "quux": 3,
+                        "spam": 4,
+                        "baz": {
+                            "bar": {
+                                "bar": "python",
+                                "baz": 6
+                            },
+                            "baz": {
+                                "foo": 50,
+                                "quux": "eggs",
+                                "bar": 3
+                            }
+                        },
+                        "bar": {
+                            "baz": [
+                                true,
+                                "python"
+                            ],
+                            "quux": {
+                                "foo": 70,
+                                "quux": "python",
+                                "bar": 1
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "foo": 73,
+                "baz": {
+                    "foo": 79,
+                    "spam": {
+                        "foo": 12,
+                        "spam": 7,
+                        "quux": 4
+                    },
+                    "bar": [
+                        {
+                            "foo": 1,
+                            "baz": {
+                                "bar": [
+                                    "python",
+                                    2,
+                                    2
+                                ],
+                                "spam": {
+                                    "foo": 76,
+                                    "bar": 5,
+                                    "quux": 2,
+                                    "spam": 8
+                                },
+                                "baz": {
+                                    "foo": 35,
+                                    "quux": 8,
+                                    "bar": 6,
+                                    "spam": 0,
+                                    "baz": 5
+                                }
+                            },
+                            "bar": [
+                                {
+                                    "spam": 3,
+                                    "baz": true,
+                                    "quux": "eggs"
+                                },
+                                7,
+                                {
+                                    "spam": [
+                                        9,
+                                        4
+                                    ],
+                                    "quux": [
+                                        "python",
+                                        {
+                                            "quux": 5,
+                                            "bar": 9
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "bar": {
+                                "foo": 1,
+                                "bar": 0,
+                                "baz": 6,
+                                "quux": 9
+                            },
+                            "baz": 9,
+                            "quux": {
+                                "foo": 3,
+                                "spam": 7,
+                                "quux": "python",
+                                "baz": true
+                            },
+                            "spam": [
+                                {
+                                    "foo": 35,
+                                    "quux": 1,
+                                    "baz": 5
+                                },
+                                1,
+                                [
+                                    5,
+                                    3
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "spam": {
+                    "bar": 6,
+                    "quux": {
+                        "foo": 30,
+                        "quux": 3,
+                        "baz": "python"
+                    },
+                    "spam": {
+                        "foo": 31,
+                        "bar": [
+                            false,
+                            "eggs"
+                        ],
+                        "quux": {
+                            "foo": 5,
+                            "baz": 9,
+                            "spam": 6
+                        }
+                    }
+                },
+                "quux": {
+                    "foo": 88,
+                    "baz": {
+                        "baz": [
+                            false,
+                            "eggs"
+                        ],
+                        "quux": 1,
+                        "bar": {
+                            "spam": "eggs",
+                            "quux": 7
+                        }
+                    },
+                    "quux": [
+                        {
+                            "foo": 57,
+                            "quux": 6,
+                            "bar": 7
+                        },
+                        {
+                            "bar": {
+                                "quux": 3,
+                                "bar": 3,
+                                "baz": {
+                                    "foo": 10,
+                                    "bar": 4,
+                                    "baz": 9
+                                }
+                            },
+                            "spam": {
+                                "bar": {
+                                    "baz": true,
+                                    "spam": 6
+                                },
+                                "spam": {
+                                    "quux": {
+                                        "foo": 27,
+                                        "quux": 3,
+                                        "spam": 2
+                                    },
+                                    "baz": {
+                                        "baz": 8,
+                                        "quux": [
+                                            5,
+                                            5
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "bar": [
+                    {
+                        "spam": [
+                            "python",
+                            1
+                        ],
+                        "bar": [
+                            [
+                                3,
+                                6
+                            ],
+                            [
+                                {
+                                    "foo": 77,
+                                    "spam": false,
+                                    "quux": 7
+                                },
+                                {
+                                    "quux": true,
+                                    "bar": "python"
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "spam": {
+                            "bar": {
+                                "foo": 17,
+                                "bar": 8,
+                                "spam": 6
+                            },
+                            "quux": 9,
+                            "spam": {
+                                "foo": 41,
+                                "spam": 3,
+                                "quux": 0
+                            },
+                            "baz": {
+                                "foo": 24,
+                                "quux": "python",
+                                "baz": 4
+                            }
+                        },
+                        "bar": [
+                            {
+                                "bar": 3,
+                                "quux": 2,
+                                "spam": 0,
+                                "baz": 3
+                            },
+                            {
+                                "bar": [
+                                    {
+                                        "spam": 5,
+                                        "baz": 0
+                                    },
+                                    {
+                                        "foo": 78,
+                                        "spam": false,
+                                        "baz": 2
+                                    },
+                                    [
+                                        6,
+                                        4
+                                    ]
+                                ],
+                                "quux": [
+                                    4,
+                                    "python"
+                                ],
+                                "spam": {
+                                    "foo": 72,
+                                    "baz": {
+                                        "bar": 0,
+                                        "quux": 5
+                                    },
+                                    "bar": {
+                                        "quux": 9,
+                                        "spam": 3
+                                    },
+                                    "spam": [
+                                        "eggs",
+                                        7
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "foo": 34,
+                "spam": [
+                    {
+                        "foo": 85,
+                        "spam": 6,
+                        "quux": 7
+                    },
+                    "python",
+                    7,
+                    {
+                        "baz": 3,
+                        "bar": {
+                            "baz": 7,
+                            "spam": 0
+                        }
+                    }
+                ],
+                "baz": [
+                    "eggs",
+                    [
+                        0,
+                        {
+                            "baz": {
+                                "foo": 96,
+                                "bar": 3,
+                                "baz": 3
+                            },
+                            "bar": 9,
+                            "spam": {
+                                "bar": 4,
+                                "baz": false
+                            }
+                        },
+                        {
+                            "foo": 90,
+                            "baz": [
+                                3,
+                                4,
+                                false
+                            ],
+                            "quux": {
+                                "quux": 7,
+                                "baz": [
+                                    0,
+                                    "eggs"
+                                ]
+                            }
+                        }
+                    ],
+                    [
+                        [
+                            [
+                                6,
+                                {
+                                    "foo": 74,
+                                    "quux": {
+                                        "foo": 67,
+                                        "quux": "eggs",
+                                        "baz": 6
+                                    },
+                                    "bar": {
+                                        "foo": 84,
+                                        "quux": "python",
+                                        "bar": true
+                                    }
+                                }
+                            ],
+                            {
+                                "spam": {
+                                    "foo": 56,
+                                    "spam": true,
+                                    "bar": 8
+                                },
+                                "bar": 4,
+                                "baz": [
+                                    false,
+                                    5
+                                ]
+                            }
+                        ],
+                        9,
+                        [
+                            {
+                                "foo": 94,
+                                "baz": 8,
+                                "quux": {
+                                    "baz": "python",
+                                    "quux": 6
+                                },
+                                "bar": {
+                                    "foo": 30,
+                                    "bar": 4,
+                                    "quux": 8
+                                }
+                            },
+                            {
+                                "spam": true,
+                                "quux": 3,
+                                "baz": 4
+                            },
+                            [
+                                [
+                                    5,
+                                    [
+                                        6,
+                                        {
+                                            "foo": 36,
+                                            "baz": 8,
+                                            "quux": 2
+                                        }
+                                    ]
+                                ],
+                                [
+                                    [
+                                        9,
+                                        7,
+                                        9
+                                    ],
+                                    {
+                                        "bar": true,
+                                        "quux": 8,
+                                        "baz": 8
+                                    }
+                                ]
+                            ],
+                            {
+                                "foo": 52,
+                                "bar": 5,
+                                "quux": {
+                                    "foo": 10,
+                                    "baz": 7,
+                                    "bar": 4,
+                                    "spam": 7,
+                                    "quux": 7
+                                }
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "bar": [
+            8,
+            [
+                {
+                    "foo": 73,
+                    "spam": {
+                        "foo": 43,
+                        "baz": true,
+                        "quux": {
+                            "foo": 49,
+                            "spam": 1,
+                            "baz": 5
+                        }
+                    },
+                    "quux": {
+                        "foo": 89,
+                        "quux": 6,
+                        "baz": 3
+                    },
+                    "bar": {
+                        "bar": 8,
+                        "baz": 3,
+                        "quux": [
+                            3,
+                            9
+                        ]
+                    }
+                },
+                {
+                    "foo": 81,
+                    "spam": {
+                        "bar": [
+                            0,
+                            9
+                        ],
+                        "spam": {
+                            "foo": 31,
+                            "spam": 8,
+                            "quux": 9
+                        },
+                        "quux": {
+                            "foo": 53,
+                            "spam": 9,
+                            "baz": 8,
+                            "bar": 7,
+                            "quux": false
+                        }
+                    },
+                    "bar": {
+                        "quux": {
+                            "baz": false,
+                            "quux": 6
+                        },
+                        "spam": {
+                            "bar": 1,
+                            "baz": 1,
+                            "spam": {
+                                "bar": 5,
+                                "spam": 7
+                            },
+                            "quux": {
+                                "foo": 4,
+                                "spam": 9,
+                                "bar": 9,
+                                "baz": 2,
+                                "quux": 0
+                            }
+                        },
+                        "bar": {
+                            "quux": {
+                                "bar": 3,
+                                "quux": [
+                                    7,
+                                    5
+                                ],
+                                "baz": {
+                                    "foo": 58,
+                                    "bar": false,
+                                    "quux": 6,
+                                    "baz": [
+                                        true,
+                                        false
+                                    ],
+                                    "spam": {
+                                        "foo": 46,
+                                        "spam": 2,
+                                        "baz": 0
+                                    }
+                                }
+                            },
+                            "baz": [
+                                6,
+                                0
+                            ],
+                            "spam": [
+                                {
+                                    "quux": 5,
+                                    "baz": 5,
+                                    "bar": "python"
+                                },
+                                {
+                                    "baz": 8,
+                                    "bar": 7,
+                                    "quux": 1,
+                                    "spam": 1
+                                }
+                            ],
+                            "bar": {
+                                "foo": 68,
+                                "bar": {
+                                    "foo": 6,
+                                    "spam": {
+                                        "foo": 18,
+                                        "spam": "python",
+                                        "bar": "eggs"
+                                    },
+                                    "bar": 7,
+                                    "quux": {
+                                        "spam": 0,
+                                        "baz": 3,
+                                        "quux": 9
+                                    }
+                                },
+                                "quux": {
+                                    "foo": 84,
+                                    "baz": 7,
+                                    "bar": {
+                                        "spam": true,
+                                        "baz": 9,
+                                        "quux": 6
+                                    }
+                                },
+                                "baz": {
+                                    "foo": 55,
+                                    "spam": true,
+                                    "bar": "python",
+                                    "baz": "python",
+                                    "quux": [
+                                        3,
+                                        8
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    "baz": {
+                        "quux": {
+                            "spam": {
+                                "bar": 6,
+                                "baz": [
+                                    true,
+                                    "python"
+                                ]
+                            },
+                            "baz": [
+                                {
+                                    "bar": 7,
+                                    "spam": 9
+                                },
+                                {
+                                    "foo": 83,
+                                    "quux": "python",
+                                    "baz": 1
+                                },
+                                {
+                                    "baz": false,
+                                    "bar": 2
+                                },
+                                {
+                                    "baz": false,
+                                    "bar": "eggs",
+                                    "spam": 2,
+                                    "quux": false
+                                }
+                            ]
+                        },
+                        "baz": [
+                            {
+                                "foo": 46,
+                                "quux": {
+                                    "bar": 4,
+                                    "baz": "python",
+                                    "quux": 2
+                                },
+                                "spam": [
+                                    6,
+                                    {
+                                        "spam": 9,
+                                        "quux": 6
+                                    }
+                                ]
+                            },
+                            true,
+                            [
+                                {
+                                    "quux": 5,
+                                    "baz": {
+                                        "foo": 30,
+                                        "spam": {
+                                            "foo": 1,
+                                            "baz": 1,
+                                            "spam": 1
+                                        },
+                                        "quux": {
+                                            "quux": 2,
+                                            "spam": 5
+                                        }
+                                    },
+                                    "spam": {
+                                        "baz": "eggs",
+                                        "bar": {
+                                            "baz": 0,
+                                            "quux": 8
+                                        },
+                                        "spam": [
+                                            {
+                                                "foo": 77,
+                                                "baz": 4,
+                                                "spam": 0
+                                            },
+                                            {
+                                                "foo": 7,
+                                                "quux": 7,
+                                                "baz": true
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "quux": 2,
+                                    "spam": {
+                                        "bar": 6,
+                                        "baz": 3
+                                    },
+                                    "bar": {
+                                        "foo": 91,
+                                        "quux": 4,
+                                        "spam": 5
+                                    }
+                                },
+                                {
+                                    "bar": true,
+                                    "quux": {
+                                        "bar": "python",
+                                        "baz": 8,
+                                        "spam": 0
+                                    },
+                                    "baz": [
+                                        false,
+                                        3
+                                    ],
+                                    "spam": {
+                                        "foo": 57,
+                                        "bar": 3,
+                                        "baz": 0,
+                                        "quux": 1
+                                    }
+                                },
+                                {
+                                    "bar": [
+                                        2,
+                                        {
+                                            "baz": {
+                                                "spam": 2,
+                                                "quux": true
+                                            },
+                                            "quux": {
+                                                "quux": 6,
+                                                "bar": "python"
+                                            }
+                                        }
+                                    ],
+                                    "quux": {
+                                        "bar": {
+                                            "foo": 26,
+                                            "spam": 9,
+                                            "quux": 0,
+                                            "bar": 5,
+                                            "baz": 2
+                                        },
+                                        "quux": {
+                                            "spam": 0,
+                                            "baz": 1,
+                                            "bar": 1
+                                        },
+                                        "baz": {
+                                            "foo": 45,
+                                            "spam": 8,
+                                            "bar": 6,
+                                            "quux": 0
+                                        },
+                                        "spam": [
+                                            true,
+                                            true,
+                                            2,
+                                            1
+                                        ]
+                                    }
+                                }
+                            ]
+                        ]
+                    }
+                }
+            ]
+        ]
+    }
+}
