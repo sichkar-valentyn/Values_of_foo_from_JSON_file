@@ -1,3 +1,15 @@
+# File: Values_of_foo_from_JSON_file.py
+# Description: Finding values of key foo from JSON file
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+# 
+# Reference to:
+# [1] Valentyn N Sichkar. Finding values of key foo from JSON file // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Values_of_foo_from_JSON_file (date of access: XX.XX.XXXX)
+
+
 # Implementing the task
 # Finding the values for all keys 'foo' from JSON file
 sum = 0
