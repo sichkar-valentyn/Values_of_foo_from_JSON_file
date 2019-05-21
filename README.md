@@ -1,6 +1,9 @@
 # Values of foo from JSON file
 Finding all values for the key 'foo' from JSON file
 
+### Courses:
+* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
+
 ### Reference to:
 [1] Valentyn N Sichkar. Finding values of key foo from JSON file // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Values_of_foo_from_JSON_file (date of access: XX.XX.XXXX)
 
